@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/roomdesign/static/css/main.43ca5cdb.css",
+    "main.js": "/roomdesign/static/js/main.a1856a5f.js",
+    "static/js/453.0e4e8311.chunk.js": "/roomdesign/static/js/453.0e4e8311.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/roomdesign/static/media/Roboto-Regular.27f62b53b93858475a7f.ttf",
+    "static/media/bannerrd.jpg": "/roomdesign/static/media/bannerrd.4e3d9352d913428bc3ad.jpg",
+    "static/media/Cinzel-Regular.ttf": "/roomdesign/static/media/Cinzel-Regular.f6dc41c2dfb6eb7c173c.ttf",
+    "static/media/5.jpg": "/roomdesign/static/media/5.2ec13afb0adb54ddaadd.jpg",
+    "static/media/fa-brands-400.woff2": "/roomdesign/static/media/fa-brands-400.6563814eb8bcc493b26b.woff2",
+    "static/media/6.jpg": "/roomdesign/static/media/6.2fec6c8d250a24edb7cb.jpg",
+    "static/media/3.jpg": "/roomdesign/static/media/3.395ac1596acdef49378c.jpg",
+    "static/media/Karla-Regular.ttf": "/roomdesign/static/media/Karla-Regular.f950111be01b92a807ba.ttf",
+    "static/media/fa-solid-900.woff2": "/roomdesign/static/media/fa-solid-900.ea995b6e6d0be9cd4319.woff2",
+    "static/media/4.jpg": "/roomdesign/static/media/4.889bced4523272607478.jpg",
+    "static/media/2.jpg": "/roomdesign/static/media/2.3ee4b775a60b5c3d84a4.jpg",
+    "static/media/1.png": "/roomdesign/static/media/1.bb344eb2becc5f7ce99c.png",
+    "static/media/fa-regular-400.woff2": "/roomdesign/static/media/fa-regular-400.4e988e05601bf81ee2b0.woff2",
+    "index.html": "/roomdesign/index.html",
+    "main.43ca5cdb.css.map": "/roomdesign/static/css/main.43ca5cdb.css.map",
+    "main.a1856a5f.js.map": "/roomdesign/static/js/main.a1856a5f.js.map",
+    "453.0e4e8311.chunk.js.map": "/roomdesign/static/js/453.0e4e8311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ca5cdb.css",
+    "static/js/main.a1856a5f.js"
+  ]
+}
